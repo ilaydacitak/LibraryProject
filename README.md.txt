@@ -1,1 +1,2 @@
-It is an example of a project that is scripted in the form of a certain number of students requesting certain books from the librarians in the library, receiving them or not getting them again. It was implemented with Java and multi-threading was used
+It is an example of a project that is scripted in the form of a certain number of students requesting certain books from the librarians in the library, 
+  receiving them or not getting them again. It was implemented with Java and multi-threading was used
